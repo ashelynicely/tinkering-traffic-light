@@ -111,6 +111,10 @@ void loop() {
 tone(SPEAKER, NOTE_AS6);
 delay(500);
 noTone(SPEAKER);
+
+
+
+
   
   digitalWrite(LED_1, HIGH);
   delay(10);
